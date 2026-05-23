@@ -459,7 +459,7 @@ export default function App() {
           <div style={{width:8,height:8,borderRadius:"50%",background:C.accent,
             boxShadow:`0 0 ${pulse?16:5}px ${C.accent}`,transition:"box-shadow 0.3s"}}/>
           <span style={{fontFamily:"'DM Mono',monospace",fontWeight:500,fontSize:13}}>
-            ZeTheta // Unified Security Platform
+            Gagan Drishti // Unified Security Platform
           </span>
           <span style={{color:C.muted,fontSize:10}}>
             SOC · Financial Fraud · Anomaly Detection
