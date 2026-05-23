@@ -5,7 +5,7 @@ import {
   XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, Legend
 } from "recharts";
 
-const API = "http://localhost:8000";
+const API = "https://soc-anomaly-dashboard.onrender.com";
 
 const C = {
   bg:"#04070f", panel:"#080e1c", border:"#0f1f3d",
